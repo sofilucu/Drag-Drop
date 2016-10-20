@@ -1,0 +1,6 @@
+==Concept=
+1.Drag from pc to html5
+2.Show Icon File
+3.Drag and drop file on HTML5
+4.Potition File On HTML5
+5.Save Information file (Potition, Name, Type)
